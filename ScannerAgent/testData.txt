@@ -1,0 +1,63 @@
+From: john@example.com
+To: jane@example.com
+Date: Wed, 09 Jul 2025 14:30:00 +0300
+Subject: Meeting bomb Update
+Hi Jane, the meeting is rescheduled to 3 PM. the mb is ready
+
+===
+From: boss@company.com
+To: team@company.com
+Date: Thu, 10 Jul 2025 09:00:00 +0300
+Subject: Project Deadline
+Project deadline is this Friday.
+
+===
+From: newsletter@store.com
+To: subscriber@gmail.com
+Date: Sun, 13 Jul 2025 12:15:00 +0300
+Subject: bomb Weekly Deals
+Check out our new deals on electronics and fashion.
+
+===
+From: support@service.com
+To: user123@gmail.com
+Date: Sat, 12 Jul 2025 08:20:00 +0300
+Subject: Account bomb Notification
+Your account password was changed successfully.
+
+===
+From: newsletter@store.com
+To: subscriber@gmail.com
+Date: Sun, 13 Jul 2025 12:15:00 +0300
+Subject: bomb Weekly Deals
+Check out our new deals on electronics and fashion.
+
+===
+From: 0501234567
+To: 0507654321
+Time: 2025-07-09 10:15:00
+Message: Hey, are we still on for lunch today?
+
+===
+From: 0522223344
+To: 0533344555
+Time: 2025-07-10 18:45:00
+Message: bomb The package has arrived at your doorstep.
+
+===
+From: 0549876543
+To: 0543210987
+Time: 2025-07-11 07:30:00
+Message: Good morning! Don't forget the meeting.
+
+===
+From: 0500001111
+To: 0501110000
+Time: 2025-07-12 13:00:00
+Message: Can you call me when you're free?
+
+===
+From: 0521112233
+To: 0523332211
+Time: 2025-07-13 21:10:00
+Message: Reminder: Your appointment is tomorrow at 10 AM.

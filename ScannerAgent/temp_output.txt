@@ -1,0 +1,48 @@
+Message Type: Email
+Message ID: 1
+Message Type: Email
+Sender Email: john@example.com
+Receiver Email: jane@example.com
+Send Time: Wed Jul  9 15:30:00 2025
+Email Subject: meeting bomb update
+Message Content: subject: meeting bomb update
+hi jane, the meeting is rescheduled to 3 pm. the mb is ready
+
+
+-----------------
+Message Type: Email
+Message ID: 3
+Message Type: Email
+Sender Email: newsletter@store.com
+Receiver Email: subscriber@gmail.com
+Send Time: Sun Jul 13 13:15:00 2025
+Email Subject: bomb weekly deals
+Message Content: subject: bomb weekly deals
+check out our new deals on electronics and fashion.
+
+
+-----------------
+Message Type: Email
+Message ID: 4
+Message Type: Email
+Sender Email: support@service.com
+Receiver Email: user123@gmail.com
+Send Time: Sat Jul 12 09:20:00 2025
+Email Subject: account bomb notification
+Message Content: subject: account bomb notification
+your account password was changed successfully.
+
+
+-----------------
+Message Type: Email
+Message ID: 5
+Message Type: Email
+Sender Email: newsletter@store.com
+Receiver Email: subscriber@gmail.com
+Send Time: Sun Jul 13 13:15:00 2025
+Email Subject: bomb weekly deals
+Message Content: subject: bomb weekly deals
+check out our new deals on electronics and fashion.
+
+
+-----------------
